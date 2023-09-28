@@ -1,0 +1,1 @@
+Repositório feito apenas para fins de estudos e testes.
